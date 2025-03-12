@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/mohamed016/react-kart-Elkher",
+  "homepage": "https://mohamed016.github.io/react-kart-Elkher",
   "name": "kart-elkher",
   "private": true,
   "version": "0.0.0",
@@ -18,7 +18,6 @@
     "animate.css": "^4.1.1",
     "aos": "^2.3.4",
     "bootstrap": "^5.3.3",
-    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.3.0"
@@ -31,6 +30,7 @@
     "eslint": "^9.21.0",
     "eslint-plugin-react-hooks": "^5.1.0",
     "eslint-plugin-react-refresh": "^0.4.19",
+    "gh-pages": "^6.3.0",
     "globals": "^15.15.0",
     "vite": "^6.2.0"
   }
